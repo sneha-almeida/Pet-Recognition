@@ -13,4 +13,3 @@ The Screenshots of the system developed are as follows:
 
 ![](https://github.com/sneha-almeida/Pet-Recognition/blob/main/ss-3-final.PNG)
 
-![](https://github.com/sneha-almeida/Pet-Recognition/blob/main/ss2_output.PNG)
