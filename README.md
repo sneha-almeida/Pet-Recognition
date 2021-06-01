@@ -6,3 +6,11 @@ The System performs the following tasks:
 3) Suggests a vet nearest to the location of the pet 
 
 The Screenshots of the system developed are as follows:
+
+![](https://github.com/sneha-almeida/Pet-Recognition/blob/main/ss-1-final.PNG)
+
+![](https://github.com/sneha-almeida/Pet-Recognition/blob/main/ss-2-final.PNG)
+
+![](https://github.com/sneha-almeida/Pet-Recognition/blob/main/ss-3-final.PNG)
+
+![](https://github.com/sneha-almeida/Pet-Recognition/blob/main/ss2_output.PNG)
